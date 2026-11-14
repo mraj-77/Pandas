@@ -33,6 +33,7 @@ Real-world datasets analyzed across these notebooks[cite: 7]:
 * `matches.csv` & `deliveries.csv` – IPL match & ball-by-ball statistics (e.g., death-overs strike rate analysis)[cite: 3, 7].
 * `indian_food.csv` – Indian cuisine dataset (data cleaning & multi-index pivot tables)[cite: 5, 7].
 * `Fortune_500.csv` – Corporate revenue & ranking analysis (`groupby` operations)[cite: 7].
+* train.csv
 
 ---
 
